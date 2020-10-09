@@ -8,9 +8,11 @@
 # Eduardo Almeida
 <sub>*Data Science Student*</sub>
 
-The program takes a folder with several images and rotates them to be correct.
-It is still missing to do the csv, but due to the time I preferred to deliver a program running. After finishing this selection I will develop this solution. As I must not tamper with the code before evaluation, I will wait to finish.
-Note: I would like a feedblack of how the program is doing.
+O programa pega uma pasta com várias imagens e as gira para ficarem corretas.
+Ainda falta fazer o csv, mas devido ao tempo preferi entregar um programa rodando. Depois de terminar esta seleção, desenvolverei esta solução. Como não devo alterar o código antes da avaliação, esperarei terminar.
+Nota: Eu gostaria de um feedblack de como o programa está indo.
+
+https://gist.github.com/csaftoiu/9fccaf47fd8f96cd378afd8fdd0d63c1
 
 **Background in:** Python | SQL | Machine Learning  
 
