@@ -9,8 +9,6 @@
 <sub>*Data Science Student*</sub>
 
 O programa pega uma pasta com várias imagens e as gira para ficarem corretas.
-Ainda falta fazer o csv, mas devido ao tempo preferi entregar um programa rodando. Depois de terminar esta seleção, desenvolverei esta solução. Como não devo alterar o código antes da avaliação, esperarei terminar.
-Nota: Eu gostaria de um feedblack de como o programa está indo.
 
 https://gist.github.com/csaftoiu/9fccaf47fd8f96cd378afd8fdd0d63c1
 
